@@ -1,0 +1,9 @@
+id:1
+first:Igor
+last:Lapin
+middle:Dmitri
+addr:Beregovaya 14
+birth:2005-12-22
+email:igor123@gmail
+phone:Work|+78121234567
+----
